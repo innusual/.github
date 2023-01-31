@@ -8,4 +8,8 @@ Somos una compañía tecnológica que apostamos por un liderazgo por valores: tr
 
 ## Forma parte de nuestro equipo
 
-En innusual siempre estamos buscando profesionales que quieran crecer junto a nosotros. Si eres uno de ellos, no dudes en [contactar con nosotros](https://www.innusual.tech/#contacto).
+En innusual siempre estamos buscando profesionales que quieran crecer junto a nosotros. Si eres uno de ellos, puedes revisar las [posiciones que tenemos abiertas](https://www.innusual.tech/offers/).
+
+## Contacto
+
+Si lo deseas, puedes contactar con nosotros a través de [nuestra página web](https://www.innusual.tech/#contacto) o nuestro perfil de [Linkedin](https://www.linkedin.com/company/innusual).
